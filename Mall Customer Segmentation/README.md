@@ -18,3 +18,6 @@ K-Means Algorithm is used to form clusters of customers' having similar characte
 SOFTWARE USED
 
 The software used is Python. Numpy, Pandas, Matplotlib, Seaborn, Jupyter Notebook are the libraries used for this project.
+
+ANALYSIS
+
