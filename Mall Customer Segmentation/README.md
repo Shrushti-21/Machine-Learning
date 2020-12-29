@@ -14,11 +14,14 @@ This is a Kaggle problem. The data contains 5 columns viz., CustomerID, Gender, 
 DATA PREPROCESSING
 
 Checking null values:
-
+![image](https://user-images.githubusercontent.com/73286521/103289692-ce3bfc00-4a0d-11eb-8895-fc7e4c72907d.png)
+We have 0 null values!
+After Data Preprocessing, we move on to making Clustering model. Here, I have used K-Means clustering algorithm to cluster the data.
 
 ALGORITHM & MODEL
 
 K-Means Algorithm is used to form clusters of customers' having similar characteristics. K-Means model is used with number of clusters 5 (Using Elbow Method). 
+
 
 SOFTWARE USED
 
