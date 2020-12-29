@@ -9,6 +9,7 @@ To make predictions and find clusters of potential customers' of the mall and th
 DATA
 
 This is a Kaggle problem. The data contains 5 columns viz., CustomerID, Gender, Age, Annual Income(k$) and Spending Score(1-100). Here, Gender is Categorical whereas rest are Numeric in nature. The dimensions of the data are (200,5). The data doesn't contain any missing values. 
+![image](https://user-images.githubusercontent.com/73286521/103289426-27576000-4a0d-11eb-8e48-b8f5b5fe2dbd.png)
 
 ALGORITHM & MODEL
 
