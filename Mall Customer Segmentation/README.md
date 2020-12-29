@@ -10,7 +10,6 @@ DATA
 
 This is a Kaggle problem. The data contains 5 columns viz., CustomerID, Gender, Age, Annual Income(k$) and Spending Score(1-100). Here, Gender is Categorical whereas rest are Numeric in nature. The dimensions of the data are (200,5). The data doesn't contain any missing values. 
 
-
 ALGORITHM & MODEL
 
 K-Means Algorithm is used to form clusters of customers' having similar characteristics. K-Means model is used with number of clusters 5 (Using Elbow Method). 
