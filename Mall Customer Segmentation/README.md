@@ -7,9 +7,14 @@ PROBLEM
 To make predictions and find clusters of potential customers' of the mall and thus help Marketing Team to plan the strategy accordingly. Here, we try to understand basic customers' data and find who can be Target Customers' that bring additional revenue to the mall.
 
 DATA
-
-This is a Kaggle problem. The data contains 5 columns viz., CustomerID, Gender, Age, Annual Income(k$) and Spending Score(1-100). Here, Gender is Categorical whereas rest are Numeric in nature. The dimensions of the data are (200,5). The data doesn't contain any missing values. 
+ 
 ![image](https://user-images.githubusercontent.com/73286521/103289426-27576000-4a0d-11eb-8e48-b8f5b5fe2dbd.png)
+This is a Kaggle problem. The data contains 5 columns viz., CustomerID, Gender, Age, Annual Income(k$) and Spending Score(1-100). Here, Gender is Categorical whereas rest are Numeric in nature. The dimensions of the data are (200,5). The data doesn't contain any missing values.
+
+DATA PREPROCESSING
+
+Checking null values:
+
 
 ALGORITHM & MODEL
 
