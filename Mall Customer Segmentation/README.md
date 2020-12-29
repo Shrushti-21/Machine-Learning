@@ -20,3 +20,15 @@ The software used is Python. Numpy, Pandas, Matplotlib, Seaborn, Jupyter Noteboo
 
 ANALYSIS
 
+Using K-Means Clustering, 5 clusters were formed based on the customer's Annual Income and Spending Score.
+The 5 clusters that were formed were:
+
+a. High Income, High Spending Score Cluster - Target these customers by sending new product alerts which would lead to increase in the revenue collected by the mall as they are loyal customers.
+
+b. High Income, Low Spending Score Cluster - Target these customers by asking the feedback and advertising the product in a better way to convert them into Cluster 5 customers.
+
+c. Average Income, Average Spending Score Cluster - Can target these set of customers by providing them with Low cost EMI's etc.
+
+d. Low Income, High Spending Score Cluster - May or may not target these group of customers. Depends on mall.
+
+e. Low Income, Low Spending Score Cluster - Don't target these customers since they have less income and want to save money
