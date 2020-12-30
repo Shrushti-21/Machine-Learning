@@ -13,7 +13,7 @@ This is a Kaggle problem. The data contains 5 columns viz., CustomerID, Gender, 
 
 DATA PREPROCESSING
 
-Checking null values:
+Checking for null values:
 
 ![image](https://user-images.githubusercontent.com/73286521/103289692-ce3bfc00-4a0d-11eb-8895-fc7e4c72907d.png)
 
